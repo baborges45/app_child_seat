@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087316359874",
+    "firebase_url": "https://child-seat-default-rtdb.firebaseio.com",
+    "project_id": "child-seat",
+    "storage_bucket": "child-seat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087316359874:android:3ce2f360fd25e594c8595b",
+        "android_client_info": {
+          "package_name": "br.com.baborges45.child_seat.app_child_seat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087316359874-m3rjko5sahlbv501n17fpeaac9034jer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRSTbtd4AdpVYp71iGBJLI1ZBecJh2XNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087316359874-m3rjko5sahlbv501n17fpeaac9034jer.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087316359874-loajsc8u2d44v7ftlepa49odm38g2j34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.baborges45.childseat.appChildSeat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
